@@ -1,4 +1,4 @@
-# 💬 *Hello, my name is Wilcles*
+# 💬 *Hello, my name is 
 ## ✅ *Welcome to my GitHub profile!*
 
 💻 - I'm currently studying programming.
